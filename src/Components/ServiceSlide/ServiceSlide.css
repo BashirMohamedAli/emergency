@@ -1,0 +1,10 @@
+.time {
+     font-size: 13px;
+     font-weight: 500;
+     color: var(--pera-text);
+}
+
+small {
+     color: var(--hover-text);
+     transition: all 0.5s linear;
+}
